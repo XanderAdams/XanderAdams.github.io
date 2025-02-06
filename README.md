@@ -1,2 +1,2 @@
-`#000000`
+#000000
 # XanderAdams.github.io
